@@ -212,7 +212,7 @@ $bIsMainPage = $APPLICATION->GetCurPage(false)  == SITE_DIR;
                     "SORT_ORDER2" => "DESC"
                 ),
                 false
-// This is comment
+// This is comment git
             );?>
 
     <div class="activities-description-wrap">
